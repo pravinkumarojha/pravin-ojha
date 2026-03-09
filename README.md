@@ -1,9 +1,11 @@
-# pravin-ojha
+#  pravin-ojha
 This is My First Git hub  Repository.
 <br>
-Author-<h1>apna collage</h1> 
-<p>pravin kumar ojha</p>
-<p>sigms batch</p>
+<h1 style="color:red">apna college</h1>
+<h1 style="color:red">pravin kumar ojha </h1>
 <br>
-<div>bihar</div>
+<h1 style="color:green">hellow word</h1>
+<p style="color:pink">this is paragraph.</p>
+<button style="color:blue;backgroud-colororange:"help</button>
+
 
